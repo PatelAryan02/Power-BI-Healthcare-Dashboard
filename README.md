@@ -41,6 +41,8 @@ The PBIX file is not shared publicly to protect the dataset, but the screenshots
 ---
 
 ## 📬 Contact  
-- **Author:** Aryan Patel  
-- **LinkedIn:** [Your LinkedIn Link]  
-- **Email:** [Your Email]  
+👤 **Aryan Dharmesh Patel**  
+- 💼 Power BI Developer | Full Stack Developer  
+- 🔗 [LinkedIn](www.linkedin.com/in/aryan-patel-ap02)
+- 🔗 [Portfolio](https://www.datascienceportfol.io/aryan_dharmesh_patel)
+- 📧 aryanpatelaryan81@gmail.com 
