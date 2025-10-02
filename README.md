@@ -10,16 +10,16 @@ The PBIX file is not shared publicly to protect the dataset, but the screenshots
 ## 🖼️ Dashboard Snapshots  
 
 ### Dashboard 1 – Comprehensive Health Overview Dashboard
-![Index Overview](./screenshots/Dashboard1.png)  
+![Index Overview](./screenshot/Dashboard1.png)  
 
 ### Dashboard 2 – Procedure Insights Dashboard  
-![Follow-Up Dashboard](./screenshots/Dashboard2.png)  
+![Follow-Up Dashboard](./screenshot/Dashboard2.png)  
 
 ### Dashboard 3 – Encounter Analysis Dashboard  
-![Follow-Up Dashboard](./screenshots/Dashboard2.png)
+![Follow-Up Dashboard](./screenshot/Dashboard3.png)
 
 ### Dashboard 4 – Demographic Distribution Dashboard  
-![Follow-Up Dashboard](./screenshots/Dashboard2.png)
+![Follow-Up Dashboard](./screenshot/Dashboard4.png)
 
 ---
 
